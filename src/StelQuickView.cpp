@@ -162,6 +162,7 @@ void StelQuickView::handleResize()
 		return;
 	if (stelApp==NULL)
 		return;
+    qDebug() << "resize event:" << width() << height();
 	StelApp::getInstance().glWindowHasBeenResized(0, 0, width(), height());
 }
 

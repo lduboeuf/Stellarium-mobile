@@ -4,7 +4,7 @@
 
 [Stellarium](https://stellarium.org) on Mobile.
 
-This is an adaptation of Cheng Xinlun's Stellarium app for Android/Ios : https://github.com/chengxinlun/Stellarium-android ,
+This is a Ubuntu Touch adaptation of Cheng Xinlun's Stellarium app for Android/Ios : https://github.com/chengxinlun/Stellarium-android ,
 
 Re-used compressed assets from initial work: https://noctua-software.com/stellarium-mobile 1.29 version
 
